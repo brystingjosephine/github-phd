@@ -1,2 +1,2 @@
 # github-phd
-Repository for Josephine's PhD Work at EMBL
+Hello. This is a repository for Josephine's PhD Work at EMBL. 
